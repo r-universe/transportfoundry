@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "censusr"]
+	path = censusr
+	url = https://github.com/transportfoundry/censusr
+	shallow = true
+	registered = true
